@@ -36,6 +36,6 @@
 
 > [First non repeating integer in an array](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/array/FirstNonRepeatingInteger.java)
 
-> > [Merge Two Sorted Array](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/array/MergeTwoSortedArray.java)
+> [Merge Two Sorted Array](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/array/MergeTwoSortedArray.java)
 
 
