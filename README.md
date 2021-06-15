@@ -54,6 +54,8 @@
 
 > [Levenshtein Distance](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/LevenshteinDistance.java)
 
+> > [Subset Sum](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/SubsetSum.java)
+
 
 - # **Tree**
 
