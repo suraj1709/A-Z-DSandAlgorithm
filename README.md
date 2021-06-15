@@ -53,3 +53,15 @@
 > [Coin Change II](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/CoinChangeI.java)
 
 > [Levenshtein Distance](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/LevenshteinDistance.java)
+
+
+- # **Tree**
+
+
+> [Balanced Binary Tree](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/BalanceBinaryTree.java)
+
+> [Create Binary Tree from Array](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/BinaryTree.java)
+
+> [Diameter of Tree](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/DiameterOfTree.java)
+
+> [Height of Tree](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/HeightOfTree.java)
