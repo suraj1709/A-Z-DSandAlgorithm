@@ -39,3 +39,17 @@
 > [Merge Two Sorted Array](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/array/MergeTwoSortedArray.java)
 
 
+- # **Dynamic Programming**
+
+
+> [0-1 Knapsack Problem](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/KnapSack.java)
+
+> [Longest Common Subsequence](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/LongestCommonSubsequence.java)
+
+> [Longest Common Substring](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/LongestCommonSubstring.java)
+
+> [Coin Change I](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/CoinChange.java)
+
+> [Coin Change II](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/CoinChangeI.java)
+
+> [Levenshtein Distance](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/LevenshteinDistance.java)
