@@ -54,7 +54,7 @@
 
 > [Levenshtein Distance](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/LevenshteinDistance.java)
 
-> > [Subset Sum](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/SubsetSum.java)
+> [Subset Sum](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dp/SubsetSum.java)
 
 
 - # **Tree**
@@ -67,3 +67,16 @@
 > [Diameter of Tree](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/DiameterOfTree.java)
 
 > [Height of Tree](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/HeightOfTree.java)
+
+
+
+- # **Stack**
+
+
+> [Reverse Stack](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/ReverseStack.java)
+
+> [Find Minimum from Array](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/MinimumElement.java)
+
+> [Find Next Largest Element](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/NextLargestElement.java)
+
+> [Find Next Minimum Element](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/NextLargestElement.java)
