@@ -73,10 +73,10 @@
 - # **Stack**
 
 
-> [Reverse Stack](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/ReverseStack.java)
+> [Reverse Stack](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/stack/ReverseStack.java)
 
-> [Find Minimum from Array](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/MinimumElement.java)
+> [Find Minimum from Array](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/stack/MinimumElement.java)
 
-> [Find Next Largest Element](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/NextLargestElement.java)
+> [Find Next Largest Element](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/stack/NextLargestElement.java)
 
-> [Find Next Minimum Element](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/tree/NextLargestElement.java)
+> [Find Next Minimum Element](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/stack/NextLargestElement.java)
