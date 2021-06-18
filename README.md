@@ -80,3 +80,23 @@
 > [Find Next Largest Element](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/stack/NextLargestElement.java)
 
 > [Find Next Minimum Element](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/stack/NextLargestElement.java)
+
+
+
+- # **BFS**
+
+
+> [Level Order Traversal](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/bfs/LevelOrderTraversal.java)
+
+> [Left View of Binary Tree](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/bfs/LeftViewOfBinaryTree.java)
+
+
+- # **DFS**
+
+
+> [In Order Traversal](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dfs/InOrderTraversal.java)
+
+> [Pre Order Traversal](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dfs/PreOrderTraversal.java)
+
+> [Post Order Traversal](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dfs/PostOrderTraversal.java)
+
