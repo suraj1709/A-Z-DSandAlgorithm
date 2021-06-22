@@ -100,3 +100,10 @@
 
 > [Post Order Traversal](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dfs/PostOrderTraversal.java)
 
+> [Puzzle Search Word](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dfs/PuzzleSearchWord.java)
+
+> [Flood Fill](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dfs/FloodFill.java)
+
+> [No of Island](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dfs/NoOfIsland.java)
+
+> [Largest Island](https://github.com/suraj1709/A-Z-DSandAlgorithm/blob/master/src/com/ds/algo/dfs/LargestIsland.java)
