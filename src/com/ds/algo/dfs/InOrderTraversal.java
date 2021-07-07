@@ -18,7 +18,7 @@ public class InOrderTraversal {
         }
     }
 
-    //Recursive Approach O(2^n)
+    //Recursive Approach O(n)
     public static void inOrderTraversal(Node node)
     {
         if(node==null)

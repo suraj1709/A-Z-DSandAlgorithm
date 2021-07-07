@@ -5,22 +5,18 @@ import java.util.Queue;
 
 public class FloodFill {
 
-    public static void floodFill(char[][] words,char replacement,int i,int j,char target)
+    public static void floodFill(char[][] words,char replacement,int i,int j)
     {
-        if(replacement==target)
+
+        if(i<0 ||i>=words.length ||j<0 || j>=words.length || words[i][j]==replacement )
         {
             return;
         }
-        if(i<0 ||i>=words.length ||j<0 || j>=words.length || words[i][j]!=target)
-        {
-            return;
-        }
-        target=words[i][j];
         words[i][j]=replacement;
-        floodFill(words,replacement,i+1,j,target);
-        floodFill(words,replacement,i-1,j,target);
-        floodFill(words,replacement,i,j+1,target);
-        floodFill(words,replacement,i,j-1,target);
+        floodFill(words,replacement,i+1,j);
+        floodFill(words,replacement,i-1,j);
+        floodFill(words,replacement,i,j+1);
+        floodFill(words,replacement,i,j-1);
 
 
     }
@@ -49,7 +45,6 @@ public class FloodFill {
             int i=node.x;
             int j=node.y;
             words[i][j]=replacement;
-
             for(int k=0;k<4;k++)
             {
                 if(isValid(words,i+row[k],j+col[k],target))
@@ -78,7 +73,14 @@ public class FloodFill {
                 System.out.print(output[i][j]+" ");
             }
         }
-        FloodFill.floodFill(flood,'C',1,1,flood[1][1]);
-
+        System.out.println();
+        FloodFill.floodFill(flood,'C',1,1);
+        for(int i=0;i<flood.length;i++)
+        {
+            for(int j=0;j<flood[0].length;j++)
+            {
+                System.out.print(flood[i][j]+" ");
+            }
+        }
     }
 }

@@ -15,7 +15,7 @@ public class PreOrderTraversal {
             right=null;
         }
     }
-    //Recursive Approach O(2^n)
+    //Recursive Approach O(n)
     public static void preOrderTraversal(Node node)
     {
         if(node==null)
